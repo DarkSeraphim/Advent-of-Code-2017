@@ -33,10 +33,15 @@ My attempts at the Advent of Code. The extra challenge is that all of the challe
 ## Language Experience Scale
 
 0 -> Have never heard of this language before.
+
 1 -> Have heard of it, never used it.
+
 2 -> Limited experience with language.
+
 3 -> Worked on small projects, or small discrete pieces of code.
+
 4 -> Worked on medium projects with others.
+
 5 -> Know the language like the back of my hand.
 
 ## Other Repositories
