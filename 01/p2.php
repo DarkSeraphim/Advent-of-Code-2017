@@ -1,3 +1,4 @@
+<?php
 function test($input, $expected) {
   echo "$input should be $expected, is " . process($input) . "\n";
 }
@@ -22,3 +23,4 @@ test('12131415', '4');
 
 $input = trim(fgets(STDIN));
 echo 'Your output was ' . process($input) . "\n";
+?>
