@@ -1,6 +1,6 @@
 # Advent of Code 2017
 
-My attempts at the Advent of Code. The extra challenge is that all of the challenges much be done in a completely randomized set of languages. Of course, this repository contains the solutions to the problems! Don't view unless you have already completed the challenges or don't care about spoilers!
+My attempts at the Advent of Code. The extra challenge is that all of the challenges must be done in a completely randomized set of languages. Of course, this repository contains the solutions to the problems! Don't view unless you have already completed the challenges or don't care about spoilers!
 
 ## Language Order:
 
