@@ -5,7 +5,7 @@ My attempts at the Advent of Code. The extra challenge is that all of the challe
 ## Language Order:
 
 1. php
-2. Python3
+2. Haskell
 3. Scala
 4. Groovy
 5. Lua
@@ -28,7 +28,10 @@ My attempts at the Advent of Code. The extra challenge is that all of the challe
 22. Crystal
 23. Dart
 24. Solidity
-25. Haskell
+25. Python3
+
+### Swaps
+- Swapped Python3 and Haskell (to make Christmas Eve less painful)
 
 ## Language Experience Scale
 
