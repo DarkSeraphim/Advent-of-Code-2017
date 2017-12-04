@@ -6,13 +6,9 @@ InputStream.metaClass.untilEnd = { closure ->
         closure(it)
     }
 }
-
 counter = 0;
 System.in.untilEnd {
-  tokens = it.tokenize(' ').collect {
-    it.collect{it}.sort().join('')
-  }
+  tokens = it.tokenize(' ').collect{it.collect{it}.sort().join('')}
   if (tokens.toSet().size() == tokens.size()) counter++
 }
-
 println(counter)
